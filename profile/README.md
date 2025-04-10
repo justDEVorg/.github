@@ -39,7 +39,9 @@ Vous êtes étudiant à Clermont ? En BUT Info ? Passionné par le dev ?
 
 Voici quelques technos qu’on explore et utilise souvent :
 
-![Technos](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,bash,git,github,vscode)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,bash,git,github,vscode,visualstudio,c,cpp,cs" />
+</div>
 
 ---
 
