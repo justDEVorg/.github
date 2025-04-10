@@ -1,6 +1,6 @@
 # 👨‍💻 justDEV
 
-> 🔧 Étudiants développeurs — BUT Informatique · Clermont-Ferrand · Promo 2026
+> 🔧 Étudiants développeurs — BUT Informatique · Clermont-Ferrand · Promo 2024-2027
 
 Bienvenue sur l'organisation **justDEV**, un collectif d'étudiants passionnés par le code, la tech, et le travail en équipe.  
 Nous sommes en 1ère année de **BUT Informatique** à l'IUT de Clermont-Ferrand, et cette organisation regroupe nos projets collaboratifs, nos expérimentations et bien plus encore.
